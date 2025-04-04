@@ -1,0 +1,99 @@
+.site-header {
+    background-color: rgb(125, 23, 23); 
+    padding: 20px; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+
+.site-branding {
+    display: flex;
+    flex-direction: column; 
+}
+
+.site-title {
+    font-size: 24px; 
+    margin: 0; 
+}
+
+.site-title a {
+    text-decoration: none; 
+    color: #333; 
+}
+
+.site-description {
+    font-size: 14px; 
+    margin: 0; 
+    color: #777; 
+}
+
+
+.site-navigation ul {
+    list-style: none; 
+    margin: 0; 
+    padding: 0; 
+    display: flex; 
+}
+
+.site-navigation li {
+    margin-left: 20px; 
+}
+
+.site-navigation a {
+    text-decoration: none; 
+    color: #333; 
+    font-weight: bold; 
+}
+
+.site-navigation a:hover {
+    color: #007bff; 
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(125, 23, 23);
+    color: whitesmoke;
+    padding: auto;
+}
+
+p.parrafo{
+    background-color: whitesmoke;
+    color: rgb(125, 23, 23);
+    text-align: justify;
+}
+
+form.formulario{
+    color: whitesmoke;
+    background-color: rgb(125, 23, 23);
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(125, 23, 23);
+    color: whitesmoke;
+}
+
+.site-footer{
+    display: flex;
+}
+
+a {
+    color: #fff200; 
+    text-decoration: none; 
+  }
+  
+  a:hover {
+    color: #fff200; 
+    text-decoration: underline; 
+  }
+  
+  a:visited {
+    color: black; 
+  }
+  
+  a:active {
+    color: #f00; 
+  }
+
+ 
